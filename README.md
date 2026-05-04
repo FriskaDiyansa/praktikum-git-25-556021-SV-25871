@@ -2,3 +2,6 @@
 
 ## Screenshot Git Log
 ![Git Log](gitlog_ss.png)
+
+## Branch Protection Rule
+![Branch Protection](setting2.png)
